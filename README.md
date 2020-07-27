@@ -1,2 +1,2 @@
 # code-example
-personal code train~
+personal code example~
